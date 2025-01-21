@@ -20,11 +20,11 @@ Here are some screenshots of the app to give you a visual overview of its featur
 
 ### Login Screen
 
-![Login Screen](assets/sc/02.png)
+
+<img src="assets/screenshots/02.jpg" alt="Login Screen" width="300" height="500">           
 
 ### Signup Screen
-
-![Signup Screen](assets/sc/01.png)
+<img src="assets/screenshots/01.jpg" alt="Login Screen" width="300" height="500">
 
 ## How It Works
 
