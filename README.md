@@ -18,12 +18,13 @@ The Voting App is built using modern technologies to ensure a seamless and secur
 
 Here are some screenshots of the app to give you a visual overview of its features:
 
-## Screenshots
+### Login Screen
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="assets/screenshots/01.png" alt="Screenshot 1" width="200" height="500">
-  <img src="assets/screenshots/02.png" alt="Screenshot 2" width="200" height="500">
-</div>
+
+<img src="assets/screenshots/02.jpg" alt="Login Screen" width="300" height="500">           
+
+### Signup Screen
+<img src="assets/screenshots/01.jpg" alt="Login Screen" width="300" height="500">
 
 ## How It Works
 
@@ -92,7 +93,3 @@ Here are some screenshots of the app to give you a visual overview of its featur
     Thank you for checking out the Voting App! We hope you find it useful and engaging. Feel free to explore the app and contribute to its development. If you have any questions or feedback, please don't hesitate to reach out.
     
     Happy Voting!
-
-
-
-    
