@@ -70,7 +70,7 @@ Here are some screenshots of the app to give you a visual overview of its featur
       "token": "jwt_token"
     }
 
-    ## Conclusion
+  ## Conclusion
     
     The Voting App is a comprehensive solution for managing elections with ease and security. With its robust features and user-friendly interface, it ensures a smooth voting experience for both voters and administrators. The app leverages modern technologies such as Flutter for the frontend and Node.js for the backend, ensuring a seamless and efficient performance.
     
