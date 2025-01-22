@@ -70,25 +70,25 @@ Here are some screenshots of the app to give you a visual overview of its featur
       "token": "jwt_token"
     }
 
-    ## Conclusion
+## Conclusion
     
-    The Voting App is a comprehensive solution for managing elections with ease and security. With its robust features and user-friendly interface, it ensures a smooth voting experience for both voters and administrators. The app leverages modern technologies such as Flutter for the frontend and Node.js for the backend, ensuring a seamless and efficient performance.
+  The Voting App is a comprehensive solution for managing elections with ease and security. With its robust features and user-friendly interface, it ensures a smooth voting experience for both voters and administrators. The app leverages modern technologies such as Flutter for the frontend and Node.js for the backend, ensuring a seamless and efficient performance.
     
-    ### Key Takeaways
+### Key Takeaways
     
-    - **Secure Authentication**: The app uses JWT for secure user authentication, ensuring that only authorized users can access the system.
-    - **Role-Based Access Control**: Different roles (voter and admin) have specific permissions, enhancing the security and functionality of the app.
-    - **User-Friendly Interface**: The app provides a smooth and intuitive user interface, making it easy for users to navigate and perform actions.
-    - **Scalable Backend**: The backend, built with Node.js and Express.js, is robust and scalable, capable of handling a large number of users and votes.
-    - **Real-Time Voting Results**: Administrators can view real-time voting results, making the election process transparent and efficient.
+  - **Secure Authentication**: The app uses JWT for secure user authentication, ensuring that only authorized users can access the system.
+  - **Role-Based Access Control**: Different roles (voter and admin) have specific permissions, enhancing the security and functionality of the app.
+  - **User-Friendly Interface**: The app provides a smooth and intuitive user interface, making it easy for users to navigate and perform actions.
+  - **Scalable Backend**: The backend, built with Node.js and Express.js, is robust and scalable, capable of handling a large number of users and votes.
+  - **Real-Time Voting Results**: Administrators can view real-time voting results, making the election process transparent and efficient.
     
-    ### Future Enhancements
+### Future Enhancements
     
-    - **Multi-Language Support**: Adding support for multiple languages to cater to a diverse user base.
-    - **Push Notifications**: Implementing push notifications to keep users informed about important updates and events.
-    - **Enhanced Security**: Adding more security features such as two-factor authentication (2FA) to further secure user accounts.
+   - **Multi-Language Support**: Adding support for multiple languages to cater to a diverse user base.
+   - **Push Notifications**: Implementing push notifications to keep users informed about important updates and events.
+   - **Enhanced Security**: Adding more security features such as two-factor authentication (2FA) to further secure user accounts.
     
-    ---
+---
     
     Thank you for checking out the Voting App! We hope you find it useful and engaging. Feel free to explore the app and contribute to its development. If you have any questions or feedback, please don't hesitate to reach out.
     
